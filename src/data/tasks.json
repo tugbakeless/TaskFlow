@@ -1,0 +1,84 @@
+[
+    {
+        "id": "33c894d0-2b99-4043-9929-fade4da1d6b5",
+        "title": "Dashboard Tasarımının Yapılması",
+        "description": "Yönetim panelinin tasarlanması",
+        "priority": "high",
+        "assignee": "Ahmet",
+        "status": "pending",
+        "createdAt": "2026-11-13T08:55:27.411Z"
+    },
+    {
+        "id": "test-task-003",
+        "title": "API Endpointlerinin Geliştirilmesi",
+        "description": "Görev yönetimi API endpointleri geliştirilecek.",
+        "priority": "high",
+        "assignee": "Mehmet",
+        "status": "in-progress",
+        "createdAt": "2026-11-13T09:00:00.000Z"
+    },
+    {
+        "id": "test-task-004",
+        "title": "Veritabanı Bağlantısının Tamamlanması",
+        "description": "Veritabanı bağlantısı başarıyla tamamlandı ve bağlantı testleri yapıldı.",
+        "priority": "medium",
+        "assignee": "Zeynep",
+        "status": "completed",
+        "createdAt": "2026-11-13T09:10:00.000Z",
+        "updatedAt": "2026-11-15T18:35:55.823Z"
+    },
+    {
+        "id": "test-task-005",
+        "title": "Kullanıcı Profil Sayfası",
+        "description": "Kullanıcı profil bilgileri düzenlenecek.",
+        "priority": "medium",
+        "assignee": "Zeynep",
+        "status": "in-progress",
+        "createdAt": "2026-11-13T09:20:00.000Z"
+    },
+    {
+        "id": "test-task-006",
+        "title": "Hata Yönetimi Mekanizması",
+        "description": "API hata yanıtları düzenlenecek.",
+        "priority": "low",
+        "assignee": "Mehmet",
+        "status": "pending",
+        "createdAt": "2026-11-13T09:30:00.000Z"
+    },
+    {
+        "id": "test-task-007",
+        "title": "Postman Testlerinin Hazırlanması",
+        "description": "API endpointleri test edilecek.",
+        "priority": "medium",
+        "assignee": "Ayşe",
+        "status": "completed",
+        "createdAt": "2026-11-13T09:40:00.000Z"
+    },
+    {
+        "id": "test-task-008",
+        "title": "README Dosyasının Yazılması",
+        "description": "Projenin kurulum ve kullanım bilgileri hazırlanacak.",
+        "priority": "low",
+        "assignee": "Zeynep",
+        "status": "pending",
+        "createdAt": "2026-11-13T09:50:00.000Z"
+    },
+    {
+        "id": "test-task-010",
+        "title": "Performans İyileştirmeleri",
+        "description": "Sistem performansı değerlendirilecek.",
+        "priority": "medium",
+        "assignee": "Mehmet",
+        "status": "completed",
+        "createdAt": "2026-11-13T10:10:00.000Z"
+    },
+    {
+        "id": "34deaacf-c627-45d9-8c63-bdb2641891f6",
+        "title": "Bildirim Sisteminin Geliştirilmesi",
+        "description": "Görev durumu değiştiğinde kullanıcılara bildirim gönderilmesi sağlanacak.",
+        "priority": "high",
+        "assignee": "Ayşe",
+        "status": "pending",
+        "createdAt": "2026-11-15T18:36:54.249Z"
+    }
+]
