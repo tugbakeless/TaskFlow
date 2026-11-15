@@ -17,23 +17,36 @@ Proje kapsamında görev yönetimi, veri doğrulama, filtreleme, arama, sayfalam
 
 ## Proje Klasör Yapısı
 
-
+```text
 TaskFlow/
 │
 ├── src/
 │   ├── controllers/
+│   │   ├── taskController.js
+│   │   └── reportsController.js
+│   │
 │   ├── data/
 │   │   └── tasks.json
+│   │
 │   ├── middleware/
+│   │   ├── logger.js
+│   │   └── validateTask.js
+│   │
 │   ├── routes/
+│   │   ├── taskRoutes.js
+│   │   └── reportsRoutes.js
+│   │
 │   └── server.js
 │
 ├── docs/
 │   └── API_Tasarim_Dokumani.md
 │
+├── screenshots/
+│
 ├── package.json
 ├── package-lock.json
-└── README.md
+├── README.md
+└── TaskFlow_Proje_Tanitim_Dokumani.docx
 ```
 
 ## Kurulum
